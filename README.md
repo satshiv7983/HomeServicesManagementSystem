@@ -26,6 +26,6 @@ User Panel
 
 Admin Panel 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/91273192/218326713-5c399e46-a80a-48ea-bfd5-2c879581a8df.png)
 
 
