@@ -19,10 +19,6 @@ Register
 
 ![image](https://user-images.githubusercontent.com/91273192/218326475-1e75caa7-f73f-4a5f-b276-d33944a486eb.png)
 
-User Panel
-
-![image](https://user-images.githubusercontent.com/91273192/218326503-42c61bd4-a778-4d17-b138-0dcc32693540.png)
-
 
 Admin Panel 
 
